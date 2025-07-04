@@ -11,7 +11,7 @@
 ### Deploy Your Own **PRABATH-MD Bot**  
 
 <p align="center">  
-  <a href="https://www.prabath-md-official-web.com/">  
+  <a href="https://prabathmd-official.vercel.app/">  
     <img src="https://img.shields.io/badge/DEPLOY-CLICK%20HERE-brightgreen?style=for-the-badge&logo=whatsapp" alt="Deploy PRABATH-MD">  
   </a>  
 </p>  
