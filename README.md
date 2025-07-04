@@ -1,25 +1,10 @@
-# PRABATH-MD 👨‍💻 🇱🇰  
-### A Powerful JavaScript WhatsApp User Bot  
+# PRABATH-MD 👨‍💻 🇱🇰    
 
 <p align="center">  
-  <a href="https://telegra.ph/file/1743544c222ffd613c219.jpg">
-    <img alt="PRABATH-MD Logo" src="https://telegra.ph/file/1743544c222ffd613c219.jpg" width="300">
+  <a href="https://i.postimg.cc/8zRCGdNT/IMG-20250602-WA0030.jpg">
+    <img alt="PRABATH-MD Logo" src="https://i.postimg.cc/8zRCGdNT/IMG-20250602-WA0030.jpg" width="300">
   </a>  
 </p>  
-
----
-
-## 🌟 About PRABATH-MD   
-
-**PRABATH-MD** is an advanced JavaScript-based WhatsApp bot that empowers users with versatile features, including:  
-- Auto-reply  
-- Auto-voice  
-- Auto-sticker  
-- Customization capabilities  
-- Logo creation and image editing  
-- And much more!  
-
-Powered by **[Baileys](https://github.com/WhiskeySockets/Baileys)**  
 
 ---
 
@@ -31,12 +16,6 @@ Powered by **[Baileys](https://github.com/WhiskeySockets/Baileys)**
   <img src="https://img.shields.io/github/stars/prabathLK/prabath-multi-device?style=social" alt="Stars">  
 </p>  
 
-#### 📈 Contribution Graph  
-<p align="center">  
-  <img src="https://ghchart.rshah.org/techflare384" alt="GitHub Contribution Graph" width="600">  
-</p>  
-
----
 
 ## 🚀 Quick Start  
 
