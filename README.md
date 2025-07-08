@@ -25,6 +25,6 @@
 
 ## 📅 Version Info  
 
-- **Version:** 2.1.5  
+- **Version:** 3.0.0  
 - **Release Date:** August 24, 2023  
-- **Latest Update:** January 16, 2025  
+- **Latest Update:** Jul 07, 2025  
